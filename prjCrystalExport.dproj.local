@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/22 10:35:28.000.251,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/22 10:36:06.000.814,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Felipe\Documents\Projetos\CrystalExport\Unit1.pas</Transaction>
+    <Transaction>2026/09/22 10:36:06.000.814,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Felipe\Documents\Projetos\CrystalExport\Unit1.dfm</Transaction>
+    <Transaction>2026/09/22 10:36:09.000.241,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Felipe\Documents\Projetos\CrystalExport\Project1.dproj</Transaction>
+    <Transaction>2026/09/22 10:36:16.000.331,=C:\Users\Felipe\Documents\Projetos\CrystalExport\Unit2.pas</Transaction>
+    <Transaction>2026/09/22 10:37:17.000.969,C:\Users\Felipe\Documents\Projetos\CrystalExport\Unit2.pas=C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalEmulation.pas</Transaction>
+    <Transaction>2026/09/22 10:39:09.000.821,=C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalActiveXReportViewerLib10_TLB.pas</Transaction>
+    <Transaction>2026/09/22 10:55:06.000.650,C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalActiveXReportViewerLib10_TLB.pas=</Transaction>
+    <Transaction>2026/10/14 10:57:26.962,C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\prjCrystalExport.dproj=C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\Project1.dproj</Transaction>
+    <Transaction>2026/10/14 11:09:37.791,C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\frmCrystalExport.dfm=C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\Unit1.dfm</Transaction>
+    <Transaction>2026/10/14 11:09:37.791,C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\frmCrystalExport.pas=C:\Users\Felipe\Documents\Projetos\CrystalExport\CrystalExport\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

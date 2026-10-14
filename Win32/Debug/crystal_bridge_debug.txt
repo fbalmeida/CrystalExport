@@ -1,0 +1,4 @@
+Decoded JSON:
+{"ReportPath":"C:\\Users\\Felipe\\Documents\\Projetos\\CrystalExport\\CrystalExport\\Win32\\Debug\\CRAA001.rpt","ServerName":"localhost","DatabaseName":"ArturAlaor","UserID":"sa","Password":"sa123","Parameters":[{"Name":"cdCobranca","Value":"1111"},{"Name":"nrCNPJEmpresa","Value":"2222"},{"Name":"nrCPFCNPJCliente","Value":"333"}]}
+Successfully exported report to: C:\Users\Felipe\AppData\Local\Temp\CRAA001_d9582b1e.pdf
+Launching PDF viewer...
